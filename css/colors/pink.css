@@ -1,0 +1,82 @@
+.header_area {
+	background: #636062;
+}
+.about_person_area .person_details h3 span {
+	color:  #636062;
+}
+.download_btn {
+	background:  #636062;
+}
+.myskill_area .skill_item_inner .single_skill .progress .progress-bar {
+	background:  #636062;
+}
+
+.work_area .work_inner_area .work_item h6 {
+	color: #636062;
+}
+.work_area .work_inner_area .work_item::before {
+	border: 4px solid #8b858b;
+	background: #636062;
+}
+.work_area .work_inner_area .work_item::after {
+	background: #8b858b;
+}
+.work_area .work_inner_area::before {
+	background: #8b858b;
+}
+
+.education_area .education_inner_area .education_item h6 {
+	color:  #636062;
+}
+.education_area .education_inner_area .education_item::before {
+	border: 4px solid #8b858b;
+	background:  #636062;
+}
+.education_area .education_inner_area .education_item::after {
+	background: #8b858b;
+}
+.education_area .education_inner_area::before {
+	background: #8b858b;
+}
+.service_area {
+	background:  #636062;
+}
+.portfolio_area .porfolio_menu .causes_filter li a::before {
+	background:  #636062;
+}
+.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title {
+	background:  #636062;
+}
+.twitter_area ul li a {
+	color:  #636062;
+}
+.blog_slider_area .owl-prev:hover {
+	color:  #636062;
+}
+.blog_slider_area .owl-next:hover {
+	color:  #636062;
+}
+.blog_slider_area .blog_slider_inner .item h5 a {
+	color:  #636062;
+}
+.left_contact_details .media .media-left i {
+	background:  #636062;
+}
+.contact_btn {
+	background:  #636062;
+}
+.contact_from_area .form-group input:focus {
+	border-color:  #636062;
+}
+.contact_from_area .form-group textarea:focus {
+	border-color:  #636062;
+}
+.contact_btn:hover {
+	background:  #636062;
+}
+.footer_copyright .pull-left h5 a {
+	color:  #636062;
+}
+.footer_copyright .pull-right .navbar-nav li:hover a, .footer_copyright .pull-right .navbar-nav li.active a {
+	color:  #636062;
+}
