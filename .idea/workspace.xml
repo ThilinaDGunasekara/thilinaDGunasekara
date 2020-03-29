@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52f4a080-2cb9-4521-a5ab-8a0e0e245d43" name="Default Changelist" comment="" />
+    <list default="true" id="52f4a080-2cb9-4521-a5ab-8a0e0e245d43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,11 +15,26 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZofFr3UuAfws3r6geyW5hO4k6I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thilinaDGunasekara/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,14 +46,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585510266750</updated>
+      <workItem from="1585510268305" duration="357000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new Dependency">
+      <created>1585510376375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585510376375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new Dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new Dependency" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1585510375061">
+    <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1585510745222">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585510375061" />
+    <state x="227" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585510745222" />
     <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585510392197">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
