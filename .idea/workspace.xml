@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52f4a080-2cb9-4521-a5ab-8a0e0e245d43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585510266750</updated>
-      <workItem from="1585510268305" duration="357000" />
+      <workItem from="1585510268305" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Dependency">
       <created>1585510376375</created>
@@ -55,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585510376375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change percentages of angular">
+      <created>1585510784005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585510784005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,7 +69,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new Dependency" />
+    <MESSAGE value="change percentages of angular" />
+    <option name="LAST_COMMIT_MESSAGE" value="change percentages of angular" />
   </component>
   <component name="WindowStateProjectService">
     <state x="227" y="0" key="CommitChangelistDialog2" timestamp="1585510745222">
